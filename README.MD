@@ -1,0 +1,3 @@
+# TYPESCRIPT
+
+- javascript superset
